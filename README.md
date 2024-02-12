@@ -353,7 +353,7 @@ Delete task 2 related to project_Id 2
   - [x] Task Model
   - [x] Task Controller
   - [x] Task Routes
-- [] Frontend interface
+- [ ] Frontend interface
   - [x] Authentication Service
   - [x] SignUp and Login View
   - [ ] Project Store (create, get, update and delete projects and tasks)

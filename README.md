@@ -125,12 +125,12 @@ const sequelize = new Sequelize("your_bdd", "root", "password", {
 npm start
 ```
 
-5. Run the front-end interface
+6. Run the front-end interface
 ```sh
 npm run dev
 ```
 
-6. Compile and Minify front-end for Production
+7. Compile and Minify front-end for Production
 ```sh
 npm run build
 ```
@@ -362,7 +362,7 @@ Delete task 2 related to project_Id 2
 
 ## Contact
 
-Project Link: [https://github.com/JaceyStew6/Project-Management-Application.git](https://github.com/JaceyStew6/Project-Management-Application.git)
+Project Link: [https://github.com/RoxanePouchain/Project-Management-Application.git](https://github.com/RoxanePouchain/Project-Management-Application.git)
 
 
 

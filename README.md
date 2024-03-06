@@ -75,7 +75,7 @@ _Below is how you can import the project and configure it._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JaceyStew6/Project-Management-Application.git
+   git clone https://github.com/RoxanePouchain/Project-Management-Application.git
    ```
 2. Install NPM packages for both back-end and front-end parts
    ```sh
